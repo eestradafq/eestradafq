@@ -1,6 +1,6 @@
 Hi, welcome to my Github profile👋
 
--  🔭 I’m Full-Stack Software Engineer.
+-  🔭 I’m Software Engineer.
 -  👯 I’m looking to collaborate on open source projects.
 -  🌱 I’m currently learning Blockchain.
 
