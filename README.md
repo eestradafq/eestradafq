@@ -1,14 +1,14 @@
-Hi, welcome to my Github profile👋
+Hi, welcome to my GitHub profile👋
 
 -  🔭 I’m Software Engineer.
 -  👯 I’m looking to collaborate on open source projects.
--  🌱 I’m currently learning Blockchain.
+-  🌱 I’m currently learning Rust.
 
 <div>
   <a href="https://github.com/eestradafq">
       <img 
            height="180em" 
-           src="https://github-readme-stats.vercel.app/api?username=erickestradapj&show_icons=true&theme=github_dark"/>
+           src="https://github-readme-stats.vercel.app/api?username=eestradafq&show_icons=true&theme=github_dark"/>
    </a>
 </div>
 
@@ -20,9 +20,8 @@ Hi, welcome to my Github profile👋
   <img align="center" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> &nbsp;
   <img align="center" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;
   <img align="center" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> &nbsp;
-  <img align="center" height="50" with="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />  &nbsp;
   <img align="center" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> &nbsp;
   <img align="center" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> &nbsp;
   <img align="center" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &nbsp;
-  <img align="center" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> &nbsp;
+  <img align="center" height="30" with="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> &nbsp;
 </div>
